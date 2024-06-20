@@ -34,7 +34,7 @@ This project implements an image-to-image translation model using a conditional 
 2. Navigate into the project directory:
 
    ```bash
-   cd your_repository
+   cd Image to Image Translation
    ```
 
 3. Install required Python packages using `requirements.txt`:
